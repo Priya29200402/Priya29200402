@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm PRIYANKA</h1>
 
 <h3 align="center">Java Full Stack Developer | Intern at X-Workz ODC</h3>
@@ -7,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Core+Java+%7C+JDBC+%7C+MySQL;Always+Building%2C+Always+Learning" />
 </p>
 
----
 
 ## 👩‍💻 About Me
 
@@ -20,7 +18,6 @@
 - 📍 Location: **Bengaluru, Karnataka**
 - 💼 Intern at **X-Workz ODC**
 
----
 
 ## 🌐 Connect With Me
 
@@ -35,8 +32,6 @@
     <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## 🛠️ Skills
 
@@ -58,8 +53,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
----
-
 ## 📌 Featured Projects
 
 | Project | Description |
@@ -70,7 +63,6 @@
 | [DSA](https://github.com/Priya29200402/DSA) | Data Structures and Algorithms practice |
 | [Web Development](https://github.com/Priya29200402?tab=repositories) | HTML, CSS, JavaScript and React projects |
 
----
 
 ## 💼 Experience
 
@@ -82,7 +74,6 @@ Duration: **4 Months**
 - Learned cybersecurity testing basics
 - Practiced Git, GitHub, Postman and project review
 
----
 
 ## 🎓 Education
 
@@ -91,7 +82,6 @@ Bachelor of Engineering
 Computer Science Engineering  
 **2026**
 
----
 
 ## 📊 GitHub Stats
 
@@ -107,7 +97,6 @@ Computer Science Engineering
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya29200402&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
@@ -115,7 +104,6 @@ Computer Science Engineering
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya29200402&theme=tokyo-night" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -123,7 +111,6 @@ Computer Science Engineering
   <img src="https://github-profile-trophy.vercel.app/?username=Priya29200402&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 ## 🐍 Snake Animation
 
@@ -131,7 +118,4 @@ Computer Science Engineering
   <img src="https://raw.githubusercontent.com/Priya29200402/Priya29200402/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
 <h3 align="center">✨ Always Building, Always Learning ✨</h3>
-```
