@@ -108,14 +108,7 @@ Computer Science Engineering
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priya29200402&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Priya29200402/Priya29200402/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priya29200402&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 <h3 align="center">✨ Always Building, Always Learning ✨</h3>
