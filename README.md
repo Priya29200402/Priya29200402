@@ -11,9 +11,6 @@
 
 - 🔭 I’m currently working on **Java Collections**
 - 🌱 I’m currently learning **Java Collections, JDBC, MySQL, Git, GitHub, Spring Boot and DSA**
-- 💬 Ask me about **Java, OOP, Collections, JDBC, SQL, Git, HTML/CSS**
-- 👯 I’m looking to collaborate on **Java Projects, Open Source and Full Stack Projects**
-- 🤝 I’m looking for help with **Spring Boot and Advanced Backend Development**
 - 📫 How to reach me **mudalagipriya@gmail.com**
 - 📍 Location: **Bengaluru, Karnataka**
 - 💼 Intern at **X-Workz ODC**
