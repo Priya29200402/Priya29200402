@@ -9,11 +9,11 @@
 
 ## 👩‍💻 About Me
 
- 🔭 I’m currently working on **Java Collections**
- 🌱 I’m currently learning **Java Collections, JDBC, MySQL, Git, GitHub, Spring Boot and DSA**
- 📫 How to reach me **mudalagipriya@gmail.com**
- 📍 Location: **Bengaluru, Karnataka**
- 💼 Intern at **X-Workz ODC**
+ -🔭 I’m currently working on **Java Collections**
+ -🌱 I’m currently learning **Java Collections, JDBC, MySQL, Git, GitHub, Spring Boot and DSA**
+ -📫 How to reach me **mudalagipriya@gmail.com**
+ -📍 Location: **Bengaluru, Karnataka**
+ -💼 Intern at **X-Workz ODC**
 
 
 ## 🌐 Connect With Me
