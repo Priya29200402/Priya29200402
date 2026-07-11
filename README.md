@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
  -🔭 I’m currently working on **Java Collections**
- -🌱 I’m currently learning **Java Collections, JDBC, MySQL, Git, GitHub**
+ -🌱 I’m currently learning **Java Collections, JDBC, MySQL, GitHub**
  -📫 How to reach me **mudalagipriya@gmail.com**
  -📍 Location: **Bengaluru, Karnataka**
  -💼 Intern at **X-Workz ODC**
