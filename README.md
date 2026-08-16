@@ -59,6 +59,7 @@
 | [core-java](https://github.com/Priya29200402/core-java) | Core Java concepts and practice programs |
 | [DSA](https://github.com/Priya29200402/DSA) | Data Structures and Algorithms practice |
 | [Web Development](https://github.com/Priya29200402?tab=repositories) | HTML, CSS, JavaScript and React projects |
+| [servlets](https://github.com/Priya29200402/servlets.git) | Servlets,JSP |
 
 
 ## 💼 Experience
