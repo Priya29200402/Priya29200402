@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRIYANKA</h1>
 
-<h3 align="center">Java Full Stack Developer | Software Intern at X-Workz ODC</h3>
+<h3 align="center">Java Full Stack Developer | Software Intern at X-Workz ODC </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Core+Java+%7C+JDBC+%7C+MySQL;Always+Building%2C+Always+Learning" />
@@ -67,7 +67,6 @@
 ### Security Reviewer Intern  
 **CampusPe**  
 Duration: **4 Months**
-
 - Worked as a Security Reviewer
 - Learned cybersecurity testing basics
 - Practiced Git, GitHub, Postman and project review
