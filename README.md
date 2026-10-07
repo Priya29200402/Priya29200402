@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
- -🔭 I’m currently working on **JPA & Servlets**
+ -🔭 I’m currently working on **JPA & Spring Framework**
  -🌱 I’m currently learning **JPA, JSP, Servlets, Java Collections, JDBC, MySQL, GitHub**
  -📫 How to reach me **mudalagipriya@gmail.com**
  -📍 Location: **Bengaluru, Karnataka**
